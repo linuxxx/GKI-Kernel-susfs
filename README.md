@@ -74,18 +74,6 @@
 
 ---
 
-# 待办事项
-
-- [X] 获取 Stoned 并构建内核！
-
----
-
-### 如果您需要添加内核版本，请告诉我，我会构建它！
-
-[Telegram](https://t.me/TheWildJames) 请勿使用 DMS！在下面的聊天中提问！
-[Telegram 群组](https://t.me/wildpluskernel) 
-[构建脚本](https://github.com/TheWildJames/kernel_build_scripts)
-
 # 特别感谢以下人员的贡献！
 这对我帮助很大！<3
 
