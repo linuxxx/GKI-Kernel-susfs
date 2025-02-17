@@ -13,7 +13,7 @@
 
  ---
 
-# 内核：
+# 其他内核：
 
 [GKI](https://github.com/WildPlusKernel/GKI_KernelSU_SUSFS) 
 [Sultan](https://github.com/WildPlusKernel/Sultan_KernelSU_SUSFS) 
@@ -34,10 +34,6 @@
 
 请按照 GKI 的步骤操作：
 [安装](https://kernelsu.org/guide/installation.html)
-
-获取 boot.img 格式：
-[Telegram Bot](https://t.me/wildpluskernel/22076)
-[获取 MyKernel 格式](https://github.com/TheWildJames/Get_My_Kernel_Format)
 
 ---
 
@@ -75,7 +71,7 @@
 ---
 
 # 特别感谢以下人员的贡献！
-这对我帮助很大！<3
+这对我帮助很大！
 
 [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git) - 创建了 SUSFS！
  [sidex15](https://github.com/sidex15) - 创建模块！
