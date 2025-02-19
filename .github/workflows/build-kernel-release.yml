@@ -37,7 +37,7 @@ on:
           - Official
           - Next
           - MKSU
-        default: Next
+        default: Official
       kernelsu_branch:
         description: "Choose ksu branch"
         required: true
